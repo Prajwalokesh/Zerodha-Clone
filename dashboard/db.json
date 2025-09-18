@@ -1,0 +1,7 @@
+{
+  "allHoldings": [
+    { "id": 1, "stock": "TCS", "qty": 10, "price": 3500 },
+    { "id": 2, "stock": "Infosys", "qty": 5, "price": 1400 }
+  ],
+  "newOrder": []
+}
